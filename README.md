@@ -1,4 +1,4 @@
-# 🧠 AI Job Assistant
+# 🧠 AI Career Coach – Personalized Job Guidance App
 
 A modern, AI-powered career coaching platform built using cutting-edge technologies like **Next.js**, **Neon DB**, **Tailwind CSS**, **Prisma**, **Inngest**, **ShadCN UI**, and **Generative AI**.
 
