@@ -1,4 +1,4 @@
-# 🧠 Full Stack AI Career Coach
+# 🧠 AI Job Assistant
 
 A modern, AI-powered career coaching platform built using cutting-edge technologies like **Next.js**, **Neon DB**, **Tailwind CSS**, **Prisma**, **Inngest**, **ShadCN UI**, and **Generative AI**.
 
